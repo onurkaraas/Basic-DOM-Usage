@@ -1,5 +1,5 @@
 # Basic-DOM-Usage
-Basic projects for learning DOM usage
+Basic projects for exercise DOM usage
 
 Guess My Number : https://frosty-kirch-4cebc9.netlify.app
 
